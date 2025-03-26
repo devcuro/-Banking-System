@@ -1,2 +1,2 @@
-# -Banking-System
-Banking system project
+# Banking-System
+Banking system project by Andrew Hathaway
